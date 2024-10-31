@@ -1,0 +1,20 @@
+h3.pink_visual_source_title {
+	font-size: 24px;
+}
+h4.pink_visual_episode_title {
+	font-size: 18px;
+	letter-spacing: 0.1em;
+	font-variant: small-caps;
+}
+div.pink_visual_data img.pink_visual_episode_tall_image {
+	float: right;
+	height: 160px;
+}
+/*div.pink_visual_data img:nth-of-type(2n+1) {
+	float: left;
+}*/
+span.pink_visal_episode_date{
+    color: #666666;
+    font-size: 12px;
+    line-height: 18px;
+}
